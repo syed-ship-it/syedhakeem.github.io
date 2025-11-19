@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Portfolio</title>
+<style>
+body { font-family: Arial; margin: 40px; }
+h1 { color: #333; }
+.section { margin-bottom: 30px; }
+</style>
+</head>
+<body>
+<h1>Hi, I'm [Your Name]</h1>
+<h3>Fresher | Desktop Support | IT Technician</h3>
+
+<div class="section">
+<h2>About Me</h2>
+<p>I am a fresher with strong interest in IT support, troubleshooting,
+hardware/software installation, and customer support.</p>
+</div>
+
+<div class="section">
+<h2>Skills</h2>
+<ul>
+<li>Windows Troubleshooting</li>
+<li>Networking Basics</li>
+<li>Customer Support</li>
+<li>MS Office</li>
+<li>Hardware Installation</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Experience</h2>
+<p><strong>Chat Support Agent - Shutterfly (Contract)</strong></p>
+<p>Oct 2024 – Dec 2024
+Providing customer support, handling queries, troubleshooting basic issues,
+and maintaining service quality.</p>
+</div>
+
+<div class="section">
+<h2>Projects</h2>
+<ul>
+<li>Installed Windows OS for 10 laptops (practice lab)</li>
+<li>Created home network setup for learning</li>
+<li>Troubleshooting practice on virtual machines</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Contact</h2>
+<p>Email: [your email]</p>
+</div>
+</body>
+</html>
